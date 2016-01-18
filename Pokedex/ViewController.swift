@@ -29,6 +29,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
 		searchBar.delegate = self
 		parsePokemonCSV()
 		
+		
 	}
 	
 	func parsePokemonCSV() {
